@@ -67,5 +67,5 @@ Este comando irá encerrar todos os serviços e seus contêineres correspondente
 
 ## Arquitetura do projeto 
 
-![Projeto Almoxarifado](./ArquiteturaProjeto.png)
+![Projeto Almoxarifado](./ArquiteturaProjeto.jpeg)
 
